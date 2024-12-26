@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "decimal": "^0.0.2",
+    "decimal.js": "^10.4.3",
+    "ethers": "^6.13.4",
+    "ts-node": "^10.9.2"
+  },
+  "scripts": {
+    "start": "ts-node cal_lp_value/lp_value_calc.ts"
+  }
+}
