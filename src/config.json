@@ -1,0 +1,22 @@
+{
+    "proxy": {
+        "http": "http://localhost:15236",
+        "https": "http://localhost:15236"
+    },
+    "network": {
+        "rpc": "https://arb-mainnet.g.alchemy.com/v2/Kj3d8BKEpObyw5EP03u02j9QfuacUy86",
+        "api_key": "2NIZTINU8TNVSJFYJQ3M2R944WRUMUS44H"
+    },
+    "contracts": {
+        "position_manager": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+        "pool": "0xc31e54c7a869b9fcbecc14363cf510d1c41fa443"
+    },
+    "position": {
+        "id": 4033741,
+        "price_lower": 0,
+        "price_upper": 999999999999
+    },
+    "query": {
+        "block_number": 288300000
+    }
+} 
